@@ -1,4 +1,4 @@
-//Python program to check number is positive or negative
+#Python program to check number is positive or negative
 n = int(input())
 
 if n > 0:
