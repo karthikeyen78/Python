@@ -1,3 +1,4 @@
+#Print N numbers in alphabhatic pattern
 N = int(input())
 
 for i in range(N):
