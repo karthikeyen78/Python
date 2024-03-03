@@ -15,3 +15,4 @@ for i in range(n2,0,-1):
     for k in range(1,i+1):
         print('* ',end='')
     print()        
+//Program to print arrow pattern
